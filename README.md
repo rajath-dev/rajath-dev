@@ -9,10 +9,10 @@ You can reach me - rajathdev12@gmail.com
 Technical Skills
 ----
 
-FrontEnd: `React` `Gatsby` `Typescript` `Javascript` `SASS` `Ant Design`
+FrontEnd:  `React`  `Gatsby`  `Typescript`  `Javascript`  `SASS`  `Ant Design`
 
-Backend: `NodeJs` `Express` `Go`
+Backend:   `NodeJs`  `Express`  `Go`
 
-Database: `MongoDB`
+Database:  `MongoDB`
 
 
