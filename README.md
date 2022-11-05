@@ -6,3 +6,7 @@ I'm currently learning Golang.So far it is going great.
 
 You can reach me - rajathdev12@gmail.com
 
+Technical Skills
+----
+
+`React` `Gatsby`
