@@ -1,4 +1,4 @@
-Hey! I'm Rajath Acharya, currently working as a front end web developer.Technologies I use the most are React, Gatsby, Typescript.
+Hey! I'm Rajath Acharya, currently working as a front end web developer.
 
 I'm interested in learning and implementing new technologies especially related to backend development.
 
