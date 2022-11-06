@@ -11,7 +11,7 @@ Technical Skills
 
 FrontEnd:  `React`  `Gatsby`  `Typescript`  `Javascript`  `SASS`  `Ant Design`
 
-Backend:   `NodeJs`  `Express`  `Go`
+Backend:   `Go`  `NodeJs`  `Express`  
 
 Database:  `MongoDB`
 
