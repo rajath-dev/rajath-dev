@@ -4,7 +4,7 @@ I'm interested in learning and implementing new technologies especially related 
 
 I'm currently learning Golang.So far it is going great.
 
-You can reach me - rajathdev12@gmail.com
+EmailID - rajathdev12@gmail.com
 
 Technical Skills
 ----
