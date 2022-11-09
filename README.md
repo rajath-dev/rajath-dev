@@ -9,9 +9,9 @@ EmailID - rajathdev12@gmail.com
 Technical Skills
 ----
 
-FrontEnd:  `React`  `Gatsby`  `Typescript`  `Javascript`  `SASS`  `Ant Design`
+FrontEnd:  `Reactjs`  `Gatsbyjs`  `Typescript`  `Javascript`  `SCSS`  `Ant Design`  `Bootstrap`
 
-Backend:   `Go`  `NodeJs`  `Express`  
+Backend:   `Go`  `Nodejs`  `Expressjs`  
 
 Database:  `MongoDB`
 
