@@ -1,8 +1,6 @@
 Hey! I'm Rajath Acharya, currently working as a front end web developer.
 
-I'm interested in learning and implementing new technologies especially related to backend development.
-
-I'm currently learning Golang.So far it is going great.
+I like to try new technologies and currently I'm more focused on backend development.
 
 EmailID - rajathdev12@gmail.com
 
